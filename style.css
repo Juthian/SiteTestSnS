@@ -1,0 +1,65 @@
+.junior
+{
+    background-color: #152222;
+    color: white;
+}
+.gigi
+{
+    background-color: #fff67f3f;
+}
+ul
+{
+    list-style-type: none;
+}
+.message
+{
+    margin-top: 50px;
+    padding-left: 48px;
+}
+footer
+{
+    background-color: #000000;
+    color: white;
+}
+.last{
+    text-align: center;
+}
+.milo
+{
+    color: white;
+    background-color: #152222;
+
+}
+.freeze
+{
+    display: flex;
+    justify-content: space-between;
+}
+.frost
+{
+    background-image: url(Images/Techban3.jpg);
+    background-size: cover;
+}
+.frost a
+{
+    color:white;
+    text-decoration: none;
+}
+.banniereDep, .banniereEmp
+{
+    height: 200px;
+}
+.banniereDep h1, .banniereEmp h1
+{
+    font-size: 3em;
+    font-weight: bolder;
+}
+
+.banniereDep
+{
+    background-image: url(Images/Techban1.jpg);
+}
+.banniereEmp
+{
+    background-image: url(Images/Techban2.jpg);
+}
